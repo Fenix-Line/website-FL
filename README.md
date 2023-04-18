@@ -10,4 +10,18 @@
 
 <h1 align=center>Trabalho a ser desenvolvido...</h1>
 
-- <h3>Embasamento de código: <a href="https://recodejr.com/">https://recodejr.com/</a></h3>
+<h3>Embasamento de código: <a href="https://recodejr.com/">https://recodejr.com/</a></h3>
+
+<h2>O website possui 7 sessões...</h2>
+
+- GIF*
+- NavBar (fixa)*
+- Sessão resumo*
+- Sessão serviços*
+- Sessão MVV (Missão, Visão e Valores)*
+- Sessão Membros (Pelo menos uma rede social de cada um)*
+- Sessão Parceiros: [EBS Security Systems](https://ebs-systems.epizy.com/), [AGRO-CETEP](https://agrocetep.wordpress.com/)*
+- Sessão Endereço
+- Footter (Rodapé)*
+
+###Somente as que têm asteriscos são essenciais
