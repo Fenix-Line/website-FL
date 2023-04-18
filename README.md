@@ -9,4 +9,4 @@
 - adonis Back-End
 
 <h1 align=center>Trabalho a ser desenvolvido...</h1>
-
+- <h3>Embasamento de código: <a href="https://recodejr.com/">https://recodejr.com/</a></h3>
