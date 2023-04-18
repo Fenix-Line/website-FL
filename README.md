@@ -25,3 +25,5 @@
 - Footter (Rodapé)*
 
 ### Somente as que têm asteriscos são essenciais
+
+### [Licença](https://github.com/Fenix-Line/website-FL/blob/main/LICENSE)
