@@ -28,6 +28,8 @@
 
 ### [Licença](https://github.com/Fenix-Line/website-FL/blob/main/LICENSE)
 
+### Termos e Condições e política de Privacidade - Iubenda
+
 <h1 align=center>Domínio</h1>
 
 ### Provedor: [Infinity Free (IFast)](https://app.infinityfree.net/accounts)
