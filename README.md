@@ -27,3 +27,9 @@
 ### Somente as que têm asteriscos são essenciais
 
 ### [Licença](https://github.com/Fenix-Line/website-FL/blob/main/LICENSE)
+
+<h1 align=center>Domínio</h1>
+
+### Provedor: [Infinity Free (IFast)](https://app.infinityfree.net/accounts)
+### Usuário e senha do Infinity: No Gmail do linefenix17@gmail.com
+### Link: https://fenix-line.epizy.com
